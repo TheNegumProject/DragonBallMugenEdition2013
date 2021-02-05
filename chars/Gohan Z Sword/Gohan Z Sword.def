@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Gohan Kai"
+displayname ="Gohan Z Sword"
+versiondate =24.11.2007
+mugenversion =06,14,2003
+author ="Haseo, mephistopheles"
+pal.defaults =1
+
+[Files]
+sprite =Gohan Kai.sff
+anim =Gohan Kai.air
+sound =Gohan Kai.snd
+cmd =Gohan Kai.cmd
+cns =Gohan Kai.cns
+stcommon =common.cns
+st =Gohan Kai.cns
+pal1=Gohan Kai.act
+st1=AI.cns
+;st2 = Bankai.cns
+
+[Arcade]
+;intro.storyboard = 
+ending.storyboard = 
+intro.storyboard=

@@ -1,0 +1,34 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name = ""
+displayname = "Vegito"
+versiondate = 27/08/2010
+mugenversion = 
+author = ""
+pal.defaults = 1,2,3,4,5
+
+[Files]
+sprite = VegettoSFF.sff
+anim = VegettoAIR.air
+sound = VegettoSND.snd
+cmd = VegettoCMD.cmd
+cns = VegettoCNS.cns
+stcommon = common1.cns
+st = VegettoCNS.cns
+st1 = basic.cns
+st2 = supers.cns
+st3 = hypers.cns
+pal1 = Vegetto.act
+pal2 = Vegetto.act
+pal3 = Vegetto.act
+pal4 = Vegetto.act
+pal5 = Vegetto.act
+pal6 = Vegetto.act
+
+[Arcade]
+;intro.storyboard = 
+;ending.storyboard = 

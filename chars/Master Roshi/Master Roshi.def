@@ -1,0 +1,26 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Master Roshi(edit of Krillin by Choujin)"
+displayname ="Master Roshi"
+versiondate =8,10,2008
+mugenversion =04,01,2001
+author ="Tomo/Choujin"
+pal.defaults =1,2,3,4,5,6
+
+[Files]
+sprite =krillin.sff
+anim =krillin.air
+sound =krillineng.snd
+cmd =krillin.cmd
+cns =krillin.cns
+stcommon =common1.cns
+st =krillin.cns
+pal1=kame.act
+st1=attacks.cns
+st2=specials.cns
+st3=hypers.cns
+

@@ -1,0 +1,19 @@
+[Info]
+name="Vegetto-Normal"
+displayname="Vegetto Normal"
+versiondate=
+mugenversion=
+author="Gangsti"
+pal.defaults=1
+[Files]
+sprite=Vegetto-Normal.sff
+sound=Vegetto-Normal.snd
+anim=Vegetto-Normal.air
+cmd=Vegetto-Normal.cmd
+cns=Vegetto-Normal.cns
+st=Vegetto-Normal.cns
+stcommon=common1.cns
+pal1=Vegetto-Normal.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=

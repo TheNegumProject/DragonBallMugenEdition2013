@@ -1,0 +1,31 @@
+;.............................................................................................
+[Info]
+name="son Goku by FRS GAMES"
+displayname="Goku SSJ5"
+;mugenversion=03.04.14
+author="FRS GAMES"
+versiondate=1/6/2007
+pal.defaults=1,2
+mugenversion=
+[Files]
+cns=CNS.cns
+st=CNS.cns
+cmd=CMD.cmd
+stcommon=common1.cns
+sprite=Sprite.sff
+anim=Air.air
+sound=Sound.snd
+st=st.cns
+pal1=Goku5.act
+pal2=GokuN.act
+pal3=Goku4.act
+
+[Arcade]
+intro.storyboard=
+ending.storyboard=final.def
+;...........................................................................................
+
+                                ; Feito no Brasil           
+;                              Autor: equipe FRS GAMES
+
+;[[[[[[[[[[[[[[[[[[[[[[E-mail& msn: superkakarotto@hotmail.com]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
